@@ -27,8 +27,8 @@ cd /var/www/html/channelpartner
 2)in your repo add remote for the server ie developement or production
 git remote add development  ssh://root@205.147.109.54/home/nowpay/domains/channelpartner.nowpay.co.in/channel_partner_repo/development
 3)git push development master
-
-
+ads
+f
 
 git remote add production root@205.147.109.54:/home/schoolpaya/git_test/production
 
